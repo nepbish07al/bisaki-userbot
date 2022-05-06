@@ -3,6 +3,12 @@ This repo is made in accordance to [HyperUBot](https://github.com/prototype74/Hy
 
 Specially, made to setup and running the userbot in the terminal (linux/android-termux)
 
+Before you begin, get your telegram **api id** and **hash** from [here](https://my.telegram.org). 
+
+You might be asked to create application and fill form. **Hint:** Keep any name and nickname, select the option **other** and leave description empty and click proceed.
+
+After you have obtained your app id and hash, begin the steps below:
+
 There are two script files in this repository. One for the linux and one for the Android.
 
 Run the scripts and you are good to go.
@@ -30,6 +36,6 @@ IF this list out your files of internal storage then it is well setup
 5. Copy that script into your internal storage
 6. And run the following commands:
 
-`chmod +x bisaki-linux.sh`
+`chmod +x bisaki-android.sh`
 
-`. bisaki-linux.sh`
+`. bisaki-android.sh`
