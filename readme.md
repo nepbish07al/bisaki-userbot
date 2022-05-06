@@ -10,7 +10,7 @@ After you have obtained your app id and hash, begin the steps below:
 
 There are two script files in this repository. One for the linux and one for the Android.
 
-**FOR LINUX (debian based i.e ubuntu,linux mint...and so**
+**FOR LINUX (debian based i.e ubuntu,linux mint...and so on)**
 
 _For other linux distros, you may download the script file and modify and made it to work!_
 
