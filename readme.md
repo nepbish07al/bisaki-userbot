@@ -1,17 +1,18 @@
 
-This repo is made in accordance to [HyperUBot](https://github.com/prototype74/HyperUBot/)
-
-Specially, made to setup and running the userbot in the terminal (linux/android-termux)
+Simplified install of [HyperUBot](https://github.com/prototype74/HyperUBot/). Make sure to check the original repo if you get stuck somewhere
+<h1> Simplifed initial procedures to setup and running the userbot in the terminal (linux/android-termux)</h1>
 
 Before you begin, get your telegram **api id** and **hash** from [here](https://my.telegram.org). 
 
-You might be asked to create application. **Hint:** Whenever you are asked to provide your phone number, provide it in _**international format**_, for Nepal it will be +97798XXXXXXXX Keep any name and nickname, select the option **other** and leave description empty and click proceed.
+You might be asked to create application. **Hint:** Whenever you are asked to provide your phone number, provide it in _**international format**_, for Nepal it will be **+977**98XXXXXXXX Keep any name and nickname, select the option **other** and leave description empty and click proceed.
 
 After you have obtained your app id and hash, begin the steps below:
 
 There are two script files in this repository. One for the linux and one for the Android.
 
-**FOR LINUX**
+**FOR LINUX (debian based i.e ubuntu,linux mint...and so**
+
+_For other linux distros, you may download the script file and modify and made it to work!_
 
 1. Download the script (bisaki-linux.sh)
 2. Go to the downloaded folder
