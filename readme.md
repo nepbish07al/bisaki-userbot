@@ -7,9 +7,29 @@ There are two script files in this repository. One for the linux and one for the
 
 Run the scripts and you are good to go.
 
-FOR LINUX
+**FOR LINUX**
 
 1. Download the script
 2. Go to the downloaded folder
 3. Open the folder in terminal
 4. And run the following command
+
+`chmod +x bisaki-linux.sh`
+
+`. bisaki-linux.sh`
+
+**FOR ANDROID**
+
+1. Install termux from playstore
+2. Setup termux storage by ruuning the following command `termux-setup-storage`
+3. Check whether it is set up or not by these two commands `cd ~/storage/shared` and `ls`
+
+IF this list out your files of internal storage then it is well setup
+
+4. Download the script 
+5. Copy that script into your internal storage
+6. And run the following commands:
+
+`chmod +x bisaki-linux.sh`
+
+`. bisaki-linux.sh`
