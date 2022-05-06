@@ -14,7 +14,7 @@ There are two script files in this repository. One for the linux and one for the
 
 _For other linux distros, you may download the script file and modify and made it to work!_
 
-1. Download the script (bisaki-linux.sh)
+1. Download the script [bisaki-linux.sh](https://raw.githubusercontent.com/nepbish07al/bisaki-userbot/main/bisaki-linux.sh)
 2. Go to the downloaded folder
 3. Open the folder in terminal
 4. And run the following command
@@ -31,7 +31,7 @@ _For other linux distros, you may download the script file and modify and made i
 
 IF this list out your files of internal storage then it is well setup
 
-4. Download the script (bisaki-android)
+4. Download the script [bisaki-android.sh](https://raw.githubusercontent.com/nepbish07al/bisaki-userbot/main/bisaki-android.sh)
 5. Copy that script into your internal storage
 6. And run the following commands:
 
