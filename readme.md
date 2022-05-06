@@ -5,7 +5,7 @@ Specially, made to setup and running the userbot in the terminal (linux/android-
 
 Before you begin, get your telegram **api id** and **hash** from [here](https://my.telegram.org). 
 
-You might be asked to create application. **Hint:** Keep any name and nickname, select the option **other** and leave description empty and click proceed.
+You might be asked to create application. **Hint:** Whenever you are asked to provide your phone number, provide it in _**international format**_, for Nepal it will be +97798XXXXXXXX Keep any name and nickname, select the option **other** and leave description empty and click proceed.
 
 After you have obtained your app id and hash, begin the steps below:
 
