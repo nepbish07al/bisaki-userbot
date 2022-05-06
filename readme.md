@@ -11,11 +11,9 @@ After you have obtained your app id and hash, begin the steps below:
 
 There are two script files in this repository. One for the linux and one for the Android.
 
-Run the scripts and you are good to go.
-
 **FOR LINUX**
 
-1. Download the script
+1. Download the script (bisaki-linux.sh)
 2. Go to the downloaded folder
 3. Open the folder in terminal
 4. And run the following command
@@ -32,10 +30,17 @@ Run the scripts and you are good to go.
 
 IF this list out your files of internal storage then it is well setup
 
-4. Download the script 
+4. Download the script (bisaki-android)
 5. Copy that script into your internal storage
 6. And run the following commands:
 
 `chmod +x bisaki-android.sh`
 
 `. bisaki-android.sh`
+
+If you face python not installed error, then simply install it by this code `pkg install python`. IF you become unable to install python try the following codes:
+1. `apt update & apt upgrade`
+2. `termux-change-repo` (Select Albatros maybe)
+3. `pkg update` and `pkg upgrade`
+4. `exit` and restart termux
+5. `pkg install python -y`
