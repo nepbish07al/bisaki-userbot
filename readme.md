@@ -1,4 +1,4 @@
-<h1> Simplified install of HyperUBot for linux and and android (termux) </h1>
+<h1> Simplified install of HyperUBot for linux and android (termux) </h1>
 
 Make sure to check the original repo [HyperUBot](https://github.com/prototype74/HyperUBot/) if you get stuck somewhere.
 
