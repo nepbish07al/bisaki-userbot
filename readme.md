@@ -29,9 +29,13 @@ _For other linux distros, you may download the script file and modify and made i
 
 1. Install termux from playstore
 2. Setup termux storage by ruuning the following command `termux-setup-storage`
-3. Check whether it is set up or not by these two commands `cd ~/storage/shared/` and `ls`
+3. Check whether it is set up or not by these two commands: 
 
-IF this list out your files of internal storage then it is well setup
+`cd ~/storage/shared/`
+
+`ls`
+
+IF this list out your files of internal storage then it is well setup and you may proceed further,
 
 4. Download the script [bisaki-android.sh](https://raw.githubusercontent.com/nepbish07al/bisaki-userbot/main/bisaki-android.sh)
 5. Copy that script into your internal storage
