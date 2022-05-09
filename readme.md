@@ -46,7 +46,9 @@ IF this list out your files of internal storage then it is well setup
 
 `. bisaki-android.sh`
 
-If you face python not installed error, then simply install it by this code `pkg install python`. IF you become unable to install python try the following codes:
+
+
+If you face python not installed error, then install it by this code: `pkg install python`. IF you become unable to install python try doing the following simultaneously:
 1. `apt update & apt upgrade`
 2. `termux-change-repo` (Select Albatros maybe)
 3. `pkg update` and `pkg upgrade`
