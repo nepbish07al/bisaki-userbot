@@ -1,6 +1,7 @@
+<h1> Simplified install of HyperUBot for linux and and android (termux) </h1>
+Make sure to check the original repo [HyperUBot](https://github.com/prototype74/HyperUBot/) if you get stuck somewhere.
 
-Simplified install of [HyperUBot](https://github.com/prototype74/HyperUBot/). Make sure to check the original repo if you get stuck somewhere
-<h1> Simplifed initial procedures to setup and running the userbot in the terminal (linux/android-termux)</h1>
+> We are going to do everything in the terminal, meaning bot will run locally through terminal.
 
 Before you begin, get your telegram **api id** and **hash** from [here](https://my.telegram.org). 
 
